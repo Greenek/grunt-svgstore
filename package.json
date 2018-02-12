@@ -1,5 +1,5 @@
 {
-  "name": "grunt-svgstore-fork",
+  "name": "grunt-svgstore",
   "version": "1.0.0",
   "description": "Merge SVGs from a folder (fork https://github.com/FWeinb/grunt-svgstore with new handlebars)",
   "devDependencies": {
